@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angela Carvajal
+Fecha: 30/05/26
+Nombre de la rama: angela_carvajal
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -11,4 +11,4 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
-Respuesta:
+Respuesta:ompartir información sin verificar en el entorno digital puede propagar noticias falsas, generar pánico innecesario y dañar la confianza dentro de un grupo social. Por el contrario, la verificación responsable actúa como un escudo protector para la comunidad, asegurando que las decisiones colectivas se basen en datos reales, transparentes y seguros. En este ecosistema, la accesibilidad web juega un rol fundamental como forma de inclusión digital, ya que rompe las barreras técnicas y de diseño para que las personas mayores o con discapacidades puedan navegar de forma autónoma. De este modo, herramientas como el formulario "Participa" se convierten en un puente directo hacia la participación ciudadana democrática. Al garantizar un diseño limpio, accesible y centrado en la privacidad, se empodera a todos los habitantes del territorio por igual, permitiéndoles expresar sus necesidades reales, proponer soluciones de impacto y colaborar activamente en la transformación de su entorno comunitario.

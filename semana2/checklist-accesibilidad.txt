@@ -1,35 +1,35 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angela Carvajal
+Fecha:30/05/26
+Nombre de la rama: angela_carvajal
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: si
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta:Sí, incluye un título principal claro dentro de la etiqueta <h1>Formulario Participacion</h1>.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
-
+Respuesta:Sí, cada campo cuenta con su etiqueta <label> visible y vinculada correctamente a través del atributo for con el id de cada input/textarea.
+Sí, tiene un párrafo <p> inicial que explica explícitamente que la información se recogerá para propuestas comunitarias y se usará solo con fines de participación.
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta:Sí, las instrucciones y los marcadores de posición (placeholders) usan un lenguaje directo, amigable y fácil de entender por cualquier ciudadano.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta:Sí, minimiza los datos al máximo. Solo solicita el nombre, la propuesta, y deja el contacto como algo totalmente opcional.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta:Sí, se utilizó una etiqueta <textarea> para el campo de propuesta, lo que permite al usuario escribir textos largos cómodamente.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta:Sí, incluye un <input type="checkbox"> de consentimiento envuelto en su respectiva etiqueta de texto.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta:Sí, el botón es descriptivo y dice "Enviar participación" en lugar de un texto genérico.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta:Sí, la estructura HTML está organizada semánticamente con <main>, <section> y <form>, lo que facilita la lectura tanto visual como para lectores de pantalla.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta:Podría mejorarse agregando el atributo required a los campos obligatorios (como el nombre y la propuesta) e incluir un elemento <label> independiente para el checkbox de consentimiento con su propio atributo for para mejorar el área de clic en dispositivos móviles.

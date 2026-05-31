@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -24,37 +24,30 @@
             type="text" 
             id="nombre" 
             name="nombre" 
-            placeholder="Escribe tu nombre">
-        </div>
-
+            placeholder="Escribe tu nombre"
+            required> </div>
+      
         <div class="campo">
           <label for="propuesta">Propuesta o mensaje</label>
           <textarea 
             id="propuesta" 
             name="propuesta" 
-            placeholder="Escribe tu propuesta para la comunidad"></textarea>
-        </div>
-
+            placeholder="Escribe tu propuesta para la comunidad"
+            required></textarea> </div>
+      
         <div class="campo">
-          <label for="contacto">Correo o teléfono de contacto opcional</label>
+          <label for="contacto">Correo de contacto (opcional)</label>
           <input 
-            type="text" 
-            id="contacto" 
+            type="email" id="contacto" 
             name="contacto" 
-            placeholder="Este campo es opcional">
+            placeholder="ejemplo@correo.com">
         </div>
-
+      
         <div class="campo">
-          <label>
-            <input type="checkbox" name="consentimiento">
+          <input type="checkbox" id="consentimiento" name="consentimiento" required> <label for="consentimiento">
             Acepto que mi información sea usada únicamente para fines de participación comunitaria.
           </label>
         </div>
-
+      
         <button type="submit">Enviar participación</button>
       </form>
-    </section>
-  </main>
-
-</body>
-</html>
